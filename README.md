@@ -6,4 +6,4 @@ Full-stack software developer with a solid knowledge in design, mainly working o
 
 🌱 I’m currently learning NodeJS
 
-🎮 Playing League Of Legends
+🎮 Playing Counter Strike
