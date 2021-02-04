@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Santos</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS and Python**
 
 
 <h3 align="left">Languages and Tools:</h3>
