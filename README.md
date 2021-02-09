@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Santos</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **NodeJS and Python**
+- 🌱 I’m currently learning **NodeJS and React**
 
 - 🌱 My name is Eduardo, I live in Brazil, specifically in São Paulo SP. I am currently studying on a ReactJS technical course. I have also studied a lot on my own to learn new technologies.
 
