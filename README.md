@@ -1,4 +1,4 @@
-<img align="center" src="https://data.whicdn.com/images/301684635/original.gif"></img>
+<img align="center" src="https://thumbs.gfycat.com/UnripeBoilingEeve-max-1mb.gif"></img>
 <hr>
 <h1 align="center">Hi 👋, I'm Eduardo Santos</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
