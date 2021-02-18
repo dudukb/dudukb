@@ -1,4 +1,4 @@
-<img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/"></img>
+<img align="center" src="https://i.pinimg.com/originals/b5/d1/d2/b5d1d25cc62bd836db1e5994f1a358c7.gif"></img>
 <hr>
 <h1 align="center">Hi 👋, I'm Eduardo Santos</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
