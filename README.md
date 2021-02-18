@@ -1,4 +1,4 @@
-<img align="center" src="https://media1.tenor.com/images/b06a11453c46ff12fa76fd7383b567ff/tenor.gif?itemid=14261040"></img>
+<img align="center" src="https://data.whicdn.com/images/301684635/original.gif"></img>
 <hr>
 <h1 align="center">Hi 👋, I'm Eduardo Santos</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
