@@ -1,5 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/b5/d1/d2/b5d1d25cc62bd836db1e5994f1a358c7.gif"></img>
-<hr>
+
 <h1 align="center">Hi 👋, I'm Eduardo Santos</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
