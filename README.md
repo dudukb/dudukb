@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **NodeJS and VueJs**
 - 🌱 I’m Studying **Pentesting**
 
-- 🌱 My name is Eduardo, I live in Brazil, specifically in São Paulo SP. I am currently studying on a ReactJS technical course. I have also studied a lot on my own to learn new technologies.
+- 🌱 My name is Eduardo, I live in Brazil, specifically in São Paulo SP. I am currently studying on a VueJS technical course. I have also studied a lot on my own to learn new technologies.
 
 - 🌱 I started as a Front-End Developer in 2018. Since then I have been dedicating about 6 hours a day to studies. I also started as a Back-End Developer in 2019 with NodeJS.
 
